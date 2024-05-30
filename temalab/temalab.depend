@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1717089298 source:e:\codeblocks_projects\temalab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"levenshtein.h"
+
+1717016797 e:\codeblocks_projects\temalab\levenshtein.h
+
+1717088947 source:e:\codeblocks_projects\temalab\levenshtein.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"levenshtein.h"
+
